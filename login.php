@@ -6,15 +6,16 @@
    <!--  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
-  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-        <div class="container">
+    <div class="wrapper">
+      <div class="container">
           <div class="row">
               <div class="block">
                   <div class="title">
-                      Login 
+                      Login
                   </div>
                   <div class="fillup">
                     <form class="" action="home.php" method="post">
@@ -30,5 +31,6 @@
           </div>
 
         </div>
+      </div>
   </body>
 </html>
