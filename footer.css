@@ -6,8 +6,6 @@
 	font-weight: 400;
 	font-style: normal;
 	font-family: nunito, sans-serif;
-
-
 }
 
 .foot{
@@ -32,14 +30,14 @@
 	margin-bottom:10pwwx;
 	margin-top:40px;
 	display:inline-block;
-	
+
 
 }
 
 .list2{
 	color: white;
 	margin-top: 45px;
-	
+
 }
 
 .list2 ul{
@@ -49,7 +47,7 @@
 }
 
 .list{
-	
+
 
 }
 .copyright{
@@ -110,13 +108,13 @@
 	padding-top: 20px;
 }
 
-.icon ul li a 
+.icon ul li a
 {
 	color:white;
 	text-decoration:none;
 }
 
-.icon ul li a:hover 
+.icon ul li a:hover
 {
 	color:#5bd3cd;
 	text-decoration:none;
@@ -126,5 +124,5 @@
 .list1 h4{
 	margin-top: 40px;
 	text-align:center;
-	margin-right:50px; 	 
+	margin-right:50px;
 }
